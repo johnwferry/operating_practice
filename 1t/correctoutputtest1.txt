@@ -1,0 +1,23 @@
+Correct output of test1:
+
+POSTED: cashier 0 sandwich 53
+POSTED: cashier 1 sandwich 914
+POSTED: cashier 2 sandwich 827
+READY: cashier 0 sandwich 53
+POSTED: cashier 3 sandwich 302
+READY: cashier 3 sandwich 302
+POSTED: cashier 4 sandwich 631
+READY: cashier 4 sandwich 631
+POSTED: cashier 0 sandwich 785
+READY: cashier 0 sandwich 785
+POSTED: cashier 3 sandwich 230
+READY: cashier 2 sandwich 827
+POSTED: cashier 4 sandwich 11
+READY: cashier 1 sandwich 914
+POSTED: cashier 2 sandwich 567
+READY: cashier 2 sandwich 567
+POSTED: cashier 1 sandwich 350
+READY: cashier 1 sandwich 350
+READY: cashier 3 sandwich 230
+READY: cashier 4 sandwich 11
+Thread library exiting.

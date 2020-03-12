@@ -1,0 +1,17 @@
+jwf17
+The merge sort used to sort the doubly linked list is adapted from notes taken from
+comp sci 201 lecture in fall 2017.
+
+This assignment, besides the actual construction of a heap mananger, is
+extremely unclear in what you want to optimize. All optimizations come at a cost,
+so it's very easy to get lost in trying to minimize your manager's stack footprint
+or the memeory accuracy, or the runtime efficiency of malloc, or the runtime efficiency
+of free, or trying to manage complexity of the environemnt from anothers perspective.
+
+THESE OPTIMIZATIONS ARE OFTEN CONFLICTING IN NATURE<AND SO THE LACK OF CLARITY ON
+EXACTLY WHAT ONE SHOULD BE TRYING TO OPTIMIZE IS EXTREMELY FRUSTRATING TO SPEND
+DAYS ON AN EFFICIENT STACK SIZE IMPLEMENTATION ONLY TO REALIZE THAT THE GRADER
+SYSTEM CARES NOT FOR IT AND INSTEAD WANTS TO FOCUS ON OTHER "UNAMED EFFICIENIES"
+and having to SCRAP that work because you were optimizing for the wrong this.
+
+CLARITY!
